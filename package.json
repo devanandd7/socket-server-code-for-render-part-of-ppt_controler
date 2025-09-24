@@ -1,0 +1,12 @@
+{
+  "name": "ws-relay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Token-based WebSocket relay for pairing desktop and web clients",
+  "scripts": {
+    "start": "node ws-server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
